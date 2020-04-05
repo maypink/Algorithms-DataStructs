@@ -1,4 +1,4 @@
-# Algorithms-Data_Structs
+# Algorithms-DataStructs
 Алгоритмы и структуры данных, 1 курс 
 
 ### Лабораторная работа №8
