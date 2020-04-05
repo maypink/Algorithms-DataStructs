@@ -30,3 +30,15 @@
 [9E. Гамильтонов путь](https://github.com/maypink/Algorithms-Data_Structs/blob/master/Sem2/Laba9/E.cpp)
 
 [9F. Игра](https://github.com/maypink/Algorithms-Data_Structs/blob/master/Sem2/Laba9/F.cpp)
+
+### Лабораторная работа №10
+---
+
+[10A. Степени вершин](https://github.com/maypink/Algorithms-Data_Structs/blob/master/Sem2/Laba10/A.cpp)
+
+[10B. Остовное дерево](https://github.com/maypink/Algorithms-Data_Structs/blob/master/Sem2/Laba10/B.cpp)
+
+[10B1. Остовное дерево 2 : Атака клёнов](https://github.com/maypink/Algorithms-Data_Structs/blob/master/Sem2/Laba10/B1.cpp)
+
+[10C. Остовное дерево 3: Месть дерева](https://github.com/maypink/Algorithms-Data_Structs/blob/master/Sem2/Laba10/C.cpp)
+
