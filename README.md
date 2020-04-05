@@ -13,4 +13,4 @@
 
 [8E. Кратчайший путь в невзвешенном графе](https://github.com/maypink/Algorithms-Data_Structs/blob/master/Sem2/Laba8/E.cpp)
 
-[8F. Лабиринт]https://github.com/maypink/Algorithms-Data_Structs/blob/master/Sem2/Laba8/F.cpp)
+[8F. Лабиринт](https://github.com/maypink/Algorithms-Data_Structs/blob/master/Sem2/Laba8/F.cpp)
