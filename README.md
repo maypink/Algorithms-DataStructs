@@ -2,6 +2,7 @@
 Алгоритмы и структуры данных, 1 курс 
 
 ### Лабораторная работа №8
+---
 
 [8A. От списка ребер к матрице смежности, ориентированный граф](https://github.com/maypink/Algorithms-Data_Structs/blob/master/Sem2/Laba8/A.cpp)
 
@@ -16,6 +17,7 @@
 [8F. Лабиринт](https://github.com/maypink/Algorithms-Data_Structs/blob/master/Sem2/Laba8/F.cpp)
 
 ### Лабораторная работа №9
+---
 
 [9A. Топологическая сортировка](https://github.com/maypink/Algorithms-Data_Structs/blob/master/Sem2/Laba9/A.cpp)
 
